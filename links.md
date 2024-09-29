@@ -22,3 +22,8 @@ permalink: LINKS/
 <h3>Week 03</h3>
 * [Linux Directories Explained in 100s](https://youtu.be/42iQKuQodW4?si=FKC3k3WJds5_yHLt) -- The video is going to talk about Linux directories for 100 seconds.
 * [the Linux File System explained in 1,233 second](https://youtu.be/A3G-3hp88mo?si=CXkWCUJ0khjtgPRY) -- Another video explaining them but on 1,233 seconds.
+
+<h3>Week 04</h3>
+* [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/) -- An article explaining about Logical and Physical Addressing in OS.
+* [Endianness Explained](https://youtu.be/LxvFb63OOs8?si=MAttPwzXxtI1Qx_w) -- Video explaining about endian.
+* [Pointers in C](https://youtu.be/2ybLD6_2gKM?si=kDfpzUZbbRiG_OYe) -- This video is going to explain about pointers.
