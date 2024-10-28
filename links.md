@@ -34,3 +34,8 @@ permalink: LINKS/
 
 * [What is Virtual Memory?](https://youtu.be/A9WLYbE0p-I?si=0vPWNMrNdqRNTbNB) -- A video diving into the world of virtual memory, which is a common memory technique used in computer's operating system.
 * [Segmented and Paged Memory](https://youtu.be/p9yZNLeOj4s?si=EYYiqBdYgr_lC2b0) -- Memory management is one of the main functions of an operating system.  This video is an overview of the paged and segmented memory management systems.
+
+<h3>Week 06</h3>
+
+* [Concurrency Vs Parallelism!](https://youtu.be/RlM9AfWf1WU?si=_GxySSC_pyswwKYv) -- A video explaining concurrency versus parallelism.
+* [Concurrency, Threading and Parallelism Explained](https://youtu.be/olYdb0DdGtM?si=4t5ALUhL2ncg7fhh) -- A video discussing what a thread is, how a thread works and the difference and meaning behind concurrency and parallelism.
