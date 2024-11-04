@@ -39,3 +39,8 @@ permalink: LINKS/
 
 * [Concurrency Vs Parallelism!](https://youtu.be/RlM9AfWf1WU?si=_GxySSC_pyswwKYv) -- A video explaining concurrency versus parallelism.
 * [Concurrency, Threading and Parallelism Explained](https://youtu.be/olYdb0DdGtM?si=4t5ALUhL2ncg7fhh) -- A video discussing what a thread is, how a thread works and the difference and meaning behind concurrency and parallelism.
+
+<h3>Week 06</h3>
+
+* [Process Synchronization](https://youtu.be/ph2awKa8r5Y?si=rwaDA5b3NsKq71O1) -- Video explaining about the process of synchronization in operating systems.
+* [Deadlock in Operating Systems](https://youtu.be/UVo9mGARkhQ?si=_M9OyoOj7RZxMjBF) -- Video explaining about deadlock in operating systems.
